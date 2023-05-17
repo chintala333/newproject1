@@ -1,0 +1,33 @@
+Malware Detection A Framework for Reverse Engineered Android Applications through Machine Learning Algorithms
+
+
+IEEE Access on Machine Learning,Issue Date:04.February.2022
+
+
+Android applications, Benign, Feature extraction, Malware Detection, Reverse Engineering, Machine Learning.
+
+Malware_Detection
+
+
+malware_detection
+
+
+
+
+
+app_type_detection
+
+
+App_Name
+Category
+Reviews
+Size
+Installs
+Type
+Price
+Content_Rating
+Genres
+Last_Updated
+Current_Ver
+Android_Ver
+Prediction
